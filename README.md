@@ -1,23 +1,23 @@
 # GLOSARIO 
 1. Hardware: Componentes físicos de una computadora, como teclado, monitor y disco 
 duro. 
-2.Software: Programas y aplicaciones que permiten que la computadora funcione. 
-3.Sistema Operativo: Programa principal que administra el hardware y software (ej. 
+2. Software: Programas y aplicaciones que permiten que la computadora funcione. 
+3. Sistema Operativo: Programa principal que administra el hardware y software (ej. 
 Windows, Linux). 
-4.Base de Datos: Sistema que almacena y organiza información digital. 
-5.Algoritmo: Conjunto de pasos ordenados para resolver un problema. 
-6.Programación: Proceso de escribir código para crear software. 
-7.Lenguaje de Programación: Lenguaje usado para escribir programas (ej. Python, Java). 
-8.Cloud Computing (Computación en la nube): Uso de servidores en internet para 
+4. Base de Datos: Sistema que almacena y organiza información digital. 
+5. Algoritmo: Conjunto de pasos ordenados para resolver un problema. 
+6. Programación: Proceso de escribir código para crear software. 
+7. Lenguaje de Programación: Lenguaje usado para escribir programas (ej. Python, Java). 
+8. Cloud Computing (Computación en la nube): Uso de servidores en internet para 
 almacenar y procesar datos. 
-9.Inteligencia Artificial (IA): Tecnología que permite a las máquinas simular inteligencia 
+9. Inteligencia Artificial (IA): Tecnología que permite a las máquinas simular inteligencia 
 humana. 
-10.Red: Conjunto de computadoras conectadas entre sí. 
-11.Servidor: Computadora que proporciona servicios o recursos a otras. 
-12.Cliente: Dispositivo que solicita servicios a un servidor. 
-13.Ciberseguridad: Protección de sistemas y datos contra ataques digitales. 
-14.Repositorio: Espacio donde se almacena código y proyectos (ej. en GitHub). 
-15.Markdown: Lenguaje simple para dar formato a texto en archivos como README.md.
+10. Red: Conjunto de computadoras conectadas entre sí. 
+11. Servidor: Computadora que proporciona servicios o recursos a otras. 
+12. Cliente: Dispositivo que solicita servicios a un servidor. 
+13. Ciberseguridad: Protección de sistemas y datos contra ataques digitales. 
+14. Repositorio: Espacio donde se almacena código y proyectos (ej. en GitHub). 
+15. Markdown: Lenguaje simple para dar formato a texto en archivos como README.md.
 # ENSAYO
 ¿Cómo ha cambiado la computación con la nube y la IA, y qué riesgos trae? 
 La computación ha cambiado mucho en los últimos años gracias a la nube y a la 
